@@ -29,3 +29,5 @@ In this section you will learn how to connect to a **remote** server that you ca
 > RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 > Are you sure you want to continue connecting (yes/no/[fingerprint])? 
 > ```
+> This is because it is your first time logging onto the server.
+> To continue type `yes`.
