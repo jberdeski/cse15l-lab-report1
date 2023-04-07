@@ -20,4 +20,4 @@ In this section you will learn how to connect to a **remote** server that you ca
 
 2. Open up a bash terminal by clicking on the + in your terminal 
 3. Next you will want to use `ssh` followed by your account name and "@ieng.ucsd.edu"
-> It should look something like this: `cs15lsp23zz@ieng6.ucsd.edu` 
+- It should look something like this: `cs15lsp23zz@ieng6.ucsd.edu` 
