@@ -34,6 +34,7 @@ In this section you will learn how to connect to a **remote** server that you ca
 4. You will then be prompted to input your password (Keep in mind while it may not show that you are typing; you are).
 
 **Once successfully logged in, you should see:**
+
 ![Image](https://github.com/jberdeski/cse15l-lab-report1/blob/main/afterLoggingIn.PNG)
 
 ## Running Some Commands
