@@ -32,5 +32,18 @@ In this section you will learn how to connect to a **remote** server that you ca
 > This is because it is your first time logging onto the server.
 > To continue type `yes`.
 4. You will then be prompted to input your password (Keep in mind while it may not show that you are typing; you are).
+
 **Once successfully logged in, you should see:**
-![Image](
+![Image](https://github.com/jberdeski/cse15l-lab-report1/blob/main/afterLoggingIn.PNG)
+
+## Running Some Commands
+There are many commands that you can test to ensure you have properally set everything up. 
+Some commands include:
+- `pwd`
+- `cd` 
+- `ls`
+- `cp`
+- `cat`
+- `..`
+
+just to name a few.
