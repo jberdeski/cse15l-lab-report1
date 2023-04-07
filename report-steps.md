@@ -16,6 +16,7 @@ In this section you will learn how to connect to a **remote** server that you ca
 **Extra Step for Windows Users**
 > Intstall `git` for Windows 
 > [Download](https://gitforwindows.org/)
+>
 > Once installed [these steps](https://stackoverflow.com/a/50527994) will help you set it up.
 
 2. Open up a bash terminal by clicking on the + in your terminal 
