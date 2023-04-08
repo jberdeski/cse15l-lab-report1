@@ -7,7 +7,7 @@ Written by Julia Berdeski
 
 *It should look like this:*
 
-![Image](https://github.com/jberdeski/cse15l-lab-report1/blob/main/VSC-screen.png)
+![Image](VSC-screen.png)
 
 ## Remotely Connecting
 In this section you will learn how to connect to a **remote** server that you can run code on.
@@ -35,7 +35,7 @@ In this section you will learn how to connect to a **remote** server that you ca
 
 **Once successfully logged in, you should see:**
 
-![Image](https://github.com/jberdeski/cse15l-lab-report1/blob/main/afterLoggingIn.PNG)
+![Image](afterLoggingIn.PNG)
 
 ## Running Some Commands
 There are many commands that you can test to ensure you have properally set everything up. 
@@ -48,3 +48,11 @@ Some commands include:
 - `..`
 
 just to name a few.
+
+`pwd` stands for "Print Working Directory" and is a command that displays the working directory.
+
+![Image](pwd-screenshot.png)
+
+`ls <path>` is best related to "list" and is used to list the files and folders in a given path.
+
+![Image](ls-screenshot.png)
