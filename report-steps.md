@@ -55,4 +55,6 @@ just to name a few.
 
 `ls <path>` is best related to "list" and is used to list the files and folders in a given path.
 
-![Image](ls-screenshot.png)
+![Image](ls - screenshot.png)
+
+Go ahead and test the others and see what they do. 
