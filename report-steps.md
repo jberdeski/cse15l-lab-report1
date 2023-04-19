@@ -63,11 +63,14 @@ just to name a few.
 `cp` can stand for "copies", since this command creates copies of files/ directories 
 ![cp Example](cp-screenshot.png)
 
+> You won't see any difference right away but can now refer to the directory/ files.
+
 `cd` changes the directory 
 
 ![cd Example](cd-screenshot.png)
 
 > `..` is used to go back one
+> 
 > ![cd with .. Example](cd-screenshot2.png)
 
 
