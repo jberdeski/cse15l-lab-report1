@@ -45,7 +45,6 @@ Some commands include:
 - `ls`
 - `cp`
 - `cat`
-- `..`
 
 just to name a few.
 
@@ -61,6 +60,14 @@ just to name a few.
 
 ![cat Example](cat-screenshot.png)
 
+`cp` can stand for "copies", since this command creates copies of files/ directories 
+![cp Example](cp-screenshot.png)
+
 `cd` changes the directory 
 
 ![cd Example](cd-screenshot.png)
+
+> `..` is used to go back one
+> ![cd with .. Example](cd-screenshot2.png)
+
+
