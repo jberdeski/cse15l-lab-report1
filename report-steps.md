@@ -52,25 +52,31 @@ just to name a few.
 
 ![Image](pwd-screenshot.png)
 
+
 `ls <path>` is best related to "list" and is used to list the files and folders in a given path.
 
 ![Image](ls-screenshot.png)
+
 
 `cat` is typically used to show the contents of a file or files
 
 ![cat Example](cat-screenshot.png)
 
+
 `cp` can stand for "copies", since this command creates copies of files/ directories 
+
 ![cp Example](cp-screenshot.png)
 
 > You won't see any difference right away but can now refer to the directory/ files.
+
 
 `cd` changes the directory 
 
 ![cd Example](cd-screenshot.png)
 
+
 > `..` is used to go back one
-> 
+>
 > ![cd with .. Example](cd-screenshot2.png)
 
 
