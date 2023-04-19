@@ -57,4 +57,10 @@ just to name a few.
 
 ![Image](ls-screenshot.png)
 
-Go ahead and test the others and see what they do. 
+`cat` is typically used to show the contents of a file or files
+
+![cat Example](cat-screenshot.png)
+
+`cd` changes the directory 
+
+![cd Example](cd-screenshot.png)
